@@ -3,23 +3,24 @@ on:
   push:
     branches:
       - 1.19.4
+  pull_request:
+    branches:
+      - 1.19.4
 
 jobs:
-  build-and-test:
+  build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
       - name: Build Modpack with Packwiz
+        uses: actions/checkout@v3
         run: |
           wget https://nightly.link/packwiz/packwiz/workflows/go/main/Linux%2064-bit%20x86.zip
           unzip Linux\ 64-bit\ x86.zip
           chmod +x packwiz
           ./packwiz modrinth export
-          mkdir output
-          mv *.mrpack output
 
-      - uses: actions/upload-artifact@v2
       - name: Upload artifacts
+        uses: actions/upload-artifact@v3
         with:
           name: pack-output
-          path: output
+          path: *.mrpack
