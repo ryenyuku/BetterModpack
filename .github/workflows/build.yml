@@ -11,8 +11,10 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Build Modpack with Packwiz
-        uses: actions/checkout@v3
+      - name: Clone repository
+      - uses: actions/checkout@v3
+
+      - name: Build modpack with Packwiz
         run: |
           wget https://nightly.link/packwiz/packwiz/workflows/go/main/Linux%2064-bit%20x86.zip
           unzip Linux\ 64-bit\ x86.zip
