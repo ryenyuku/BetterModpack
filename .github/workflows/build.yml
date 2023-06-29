@@ -1,0 +1,17 @@
+name: Build
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build-and-test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: https://github.com/actions/checkout@v2
+      - name: Build Modpack with Packwiz
+        run: |
+          wget https://nightly.link/packwiz/packwiz/workflows/go/main/Linux%2064-bit%20x86.zip
+          unzip Linux\ 64-bit\ x86.zip
+          chmod +x packwiz
+          ./packwiz modrinth export
