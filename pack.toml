@@ -1,12 +1,12 @@
 name = "Crafthub III v2"
-author = ["リェンーゆく", "TheClashFruit"]
-version = "1.3.1+1.19.4"
+author = "リェンーゆく & TheClashFruit"
+version = "1.3.1-ryenyuku+1.19.4"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "9dc2a9068d88eba5a49a7b1a2db970b584be34eadeed45e57d0011ac0eb2e446"
+hash = "898b0ec0888489f7acc78af38001bd7c1d51f55630f3c40e08b813af01331336"
 
 [versions]
 fabric = "0.14.21"

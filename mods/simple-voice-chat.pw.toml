@@ -1,18 +1,17 @@
 name = "Simple Voice Chat"
-filename = "voicechat-fabric-1.19.4-2.4.11.jar"
+filename = "voicechat-fabric-1.19.4-2.4.12.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/9eGKb6K1/versions/a5HtJfzX/voicechat-fabric-1.19.4-2.4.11.jar"
+url = "https://cdn.modrinth.com/data/9eGKb6K1/versions/tfDBpe85/voicechat-fabric-1.19.4-2.4.12.jar"
 hash-format = "sha1"
-hash = "971e8ba9d1a037f034152cff423630b1f4cb2c2b"
+hash = "b8859289692c3d509892ea8119705e28000e882c"
 
 [update]
 [update.modrinth]
 mod-id = "9eGKb6K1"
-version = "a5HtJfzX"
+version = "tfDBpe85"
 
 [option]
 optional = true
-default = false
 description = "This mod enables voice chat support inside Minecraft. Unnecessary if you don't use it."
