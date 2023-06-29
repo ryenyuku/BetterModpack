@@ -6,7 +6,7 @@ hash = "d8a6cc31abc16b6748c7a21f21611f5a1ec33f67d22ca23d7da1c19b95496bee"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "19fc8f1a98d605e40734e2889c7ac3d4bc4112cfbd03532619199529cf130f05"
+hash = "9ca738e4d6caac461ecdce45a3a6ca8e92e82c94f00db3be355925e60d787c98"
 metafile = true
 
 [[files]]
@@ -256,7 +256,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "bd3b313a4cff51d10aecce5ecb208c1e7ec52b70a3422610d49945a85da869dc"
+hash = "62bf688c9ada36f32484810439939109a2cdeb342f9ea62cf04a035cfe055d1d"
 metafile = true
 
 [[files]]

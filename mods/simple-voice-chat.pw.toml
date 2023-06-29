@@ -14,4 +14,5 @@ version = "tfDBpe85"
 
 [option]
 optional = true
+default = false
 description = "This mod enables voice chat support inside Minecraft. Unnecessary if you don't use it."

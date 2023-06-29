@@ -8,10 +8,18 @@ jobs:
   build-and-test:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
       - name: Build Modpack with Packwiz
+        uses: actions/checkout@v2
         run: |
           wget https://nightly.link/packwiz/packwiz/workflows/go/main/Linux%2064-bit%20x86.zip
           unzip Linux\ 64-bit\ x86.zip
           chmod +x packwiz
           ./packwiz modrinth export
+          mkdir output
+          mv *.mrpack output
+
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v2
+        with:
+          name: pack-output
+          path: output
