@@ -18,9 +18,11 @@ jobs:
           unzip Linux\ 64-bit\ x86.zip
           chmod +x packwiz
           ./packwiz modrinth export
+          mkdir output
+          mv *.mrpack output
 
       - name: Upload artifacts
         uses: actions/upload-artifact@v3
         with:
           name: pack-output
-          path: *.mrpack
+          path: output
