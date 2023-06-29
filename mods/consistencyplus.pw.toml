@@ -1,11 +1,11 @@
 name = "Consistency+"
-filename = "consistency_plus-fabric-0.5.2-rc.2+1.19.4.jar"
+filename = "consistency_plus-fabric-0.5.2RC.21.19.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/nDHcEOt3/versions/HVRrLFYO/consistency_plus-fabric-0.5.2-rc.2%2B1.19.4.jar"
+url = "https://cdn.discordapp.com/attachments/1120285270496006225/1122465983781670983/consistency_plus-fabric-0.5.2RC.21.19.4.jar"
 hash-format = "sha1"
-hash = "93109b7976f5ecb4c42a684cca3a4b6d7b1b5ad9"
+hash = "e249f36397ab265c35954094bdef9a352a6855d6"
 
 [update]
 [update.modrinth]

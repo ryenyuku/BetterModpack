@@ -81,7 +81,7 @@ metafile = true
 
 [[files]]
 file = "mods/consistencyplus.pw.toml"
-hash = "f20197629e8b74504244ebcc5f82ff4bd04b1c461e1cd979d9a5c12af097233b"
+hash = "0386d2a44a4cc574d22cc0dc3142054932139e9afb6572537af8c6d38b0c97db"
 metafile = true
 
 [[files]]
