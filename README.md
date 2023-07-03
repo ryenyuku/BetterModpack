@@ -23,6 +23,7 @@ Better version of Crafthub III's 1.19.4 modpack
 - [Cooking for Blockheads](https://modrinth.com/mod/cooking-for-blockheads)
 - [DashLoader](https://modrinth.com/mod/dashloader)
 - [Detail Armor Bar](https://modrinth.com/mod/detail-armor-bar)
+- [Do a Barrel Roll](https://modrinth.com/mod/do-a-barrel-roll)
 - [Dynamic FPS](https://modrinth.com/mod/dynamic-fps)
 - [Eating Animation (Fabric)](https://modrinth.com/mod/eating-animation)
 - [Entity Culling](https://modrinth.com/mod/entityculling)
