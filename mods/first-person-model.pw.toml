@@ -14,5 +14,4 @@ version = "VIJi4c8W"
 
 [option]
 optional = true
-default = false
 description = "Makes your player model rendered in first person. Might be annoying on normal fov."

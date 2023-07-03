@@ -14,5 +14,4 @@ version = "rvtgIO5A"
 
 [option]
 optional = true
-default = false
 description = "This mod replaces the usually flat second layer of player skins with a 3d modeled version. Might ruin skin appearances."

@@ -6,7 +6,7 @@ hash = "d8a6cc31abc16b6748c7a21f21611f5a1ec33f67d22ca23d7da1c19b95496bee"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "9ca738e4d6caac461ecdce45a3a6ca8e92e82c94f00db3be355925e60d787c98"
+hash = "1c7b0abdbfe1d3e4cc471d93c5a8680dbe3032c78f259ad53245ca1742b96cb7"
 metafile = true
 
 [[files]]
@@ -71,7 +71,7 @@ metafile = true
 
 [[files]]
 file = "mods/cit-resewn.pw.toml"
-hash = "645d28ab9964d1737c96f4e07b5c6464398c87edb9a06c1a7095c657f2ef3726"
+hash = "a3009d60d745a12c5b3112fbdd34a973f736087843f05104fd999fa6b5244ca9"
 metafile = true
 
 [[files]]
@@ -151,7 +151,7 @@ metafile = true
 
 [[files]]
 file = "mods/first-person-model.pw.toml"
-hash = "a7b7a81c648ed1f3aae7b744241c758582fa851df7bcd46762fa6c39a2a8822b"
+hash = "3de08e872b6bfe03124414e4c4d0b26b20be1662d9102e4e4bad05dbceb3811f"
 metafile = true
 
 [[files]]
@@ -166,7 +166,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "a8f58f9b72c396785213ef907a29cfcd91fda846d1f4d99df04c70b22b3bd50e"
+hash = "655283c5c2c1ae0b65c3bd40d63b0eebb8df606e6d92e672ac1cbc8be906c189"
 metafile = true
 
 [[files]]
@@ -261,7 +261,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "62bf688c9ada36f32484810439939109a2cdeb342f9ea62cf04a035cfe055d1d"
+hash = "8619815015124b7bda2919f314065d324b68dd69007431126b96aa627da70a24"
 metafile = true
 
 [[files]]
@@ -311,7 +311,7 @@ metafile = true
 
 [[files]]
 file = "mods/wilder-wild.pw.toml"
-hash = "95b2e9308e055a35266e819e9def2bde54cf7c8d1997725f43822163b206f357"
+hash = "f428a06bcacfec1190ad2038c418b01c3a45d87d41304823c4007dd84e3dcb2d"
 metafile = true
 
 [[files]]

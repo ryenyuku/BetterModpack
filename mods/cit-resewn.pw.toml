@@ -14,5 +14,4 @@ version = "8oMEcc2E"
 
 [option]
 optional = true
-default = false
 description = "This mod enables resource packs to change custom item textures similar to MCPatcher/Optifine. Unnecessary if you don't use a resource pack that needs it."
