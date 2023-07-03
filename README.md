@@ -31,7 +31,6 @@ Better version of Crafthub III's 1.19.4 modpack
 - [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin)
 - [Falling Leaves](https://modrinth.com/mod/fallingleaves)
 - [FastQuit](https://modrinth.com/mod/fastquit)
-- [FerriteCore](https://modrinth.com/mod/ferrite-core)
 - [First-person Model](https://modrinth.com/mod/first-person-model) (Optional)
 - [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast)
 - [Indium](https://modrinth.com/mod/indium)
