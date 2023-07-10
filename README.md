@@ -1,6 +1,6 @@
 # BetterModpack
 
-Better version of Crafthub III's 1.19.4 modpack
+BetterModpack for Crafthub III (1.19.4)
 
 ## Mod List:
 - [3D Skin Layers](https://modrinth.com/mod/3dskinlayers) (Optional)

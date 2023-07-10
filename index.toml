@@ -200,6 +200,11 @@ hash = "78e5ad156b8c0619fe9b2603c3d26423985c4f8437dfce3dcdce4d7463a1ca79"
 metafile = true
 
 [[files]]
+file = "mods/morechathistory.pw.toml"
+hash = "d1558ff187abe468110fef11eee834aa3c03df732e706ac16e221425b538da4d"
+metafile = true
+
+[[files]]
 file = "mods/moreculling.pw.toml"
 hash = "b181531817e2f079d5ac74f78c410d7e978d18c111a81b38a29bb3809102291d"
 metafile = true

@@ -1,12 +1,12 @@
-name = "Crafthub III"
+name = "BetterModpack for Crafthub III"
 author = "リェンーゆく & TheClashFruit"
-version = "2.4.0"
+version = "2.4.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "5d3cc1d547d049a66662f814b81852284cc673df3917dce8f06b4448f443d908"
+hash = "f43b3f322eb66e5bb61f7a74c09133b752d76edd5422b5e69cf1723d0248d5ec"
 
 [versions]
 fabric = "0.14.21"
