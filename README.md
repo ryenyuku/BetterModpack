@@ -1,5 +1,6 @@
 # BetterModpack
-
+# ⚠️ THIS REPOSITORY IS UNMAINTAINED ⚠️
+## Due to an unsolvable internal conflict, I will no longer maintain this modpack.
 BetterModpack for Crafthub III (1.19.4)
 
 ## Mod List:
